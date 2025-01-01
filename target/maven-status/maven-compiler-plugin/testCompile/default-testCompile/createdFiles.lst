@@ -1,0 +1,3 @@
+agoda\testRunner\TestRunner.class
+agoda\pageObjects\HomePage.class
+agoda\stepDefinitions\HomePageSteps.class

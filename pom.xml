@@ -51,7 +51,7 @@
 							<goal>generate</goal>
 						</goals>
 						<configuration>
-							<projectName>PHP_Travels</projectName>
+							<projectName>Agoda</projectName>
 							<outputDirectory>
 								target/cucumber-reports/advance-reports</outputDirectory>
 							<cucumberOutput>
@@ -95,11 +95,14 @@
 			<version>6.14.3</version>
 			<scope>test</scope>
 		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
-			<version>3.141.59</version>
+			<version>4.27.0</version>
 		</dependency>
+
 		<!--  https://mvnrepository.com/artifact/commons-io/commons-io  -->
 		<dependency>
 			<groupId>commons-io</groupId>
@@ -135,5 +138,13 @@
 			<artifactId>cucumber-reporting</artifactId>
 			<version>3.8.0</version>
 		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+		<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>5.9.2</version>
+		</dependency>
+
 	</dependencies>
 </project>
