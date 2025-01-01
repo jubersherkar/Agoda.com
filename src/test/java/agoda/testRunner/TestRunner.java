@@ -7,7 +7,9 @@ import io.cucumber.testng.CucumberOptions;
 		features = "src/test/resources/Features",
 		glue = {"agoda.stepDefinitions"},				
 		plugin = {"pretty",
-		"html:target/cucumber-reports/cucumber-pretty"},
+		"html:target/cucumber-reports/cucumber-pretty",
+		"json:target/cucumber-reports/CucumberTestReport.json",
+		"rerun:target/cucumber-reports/rerun.txt"},
 //		tags = "not @login and @flightSearchResult",
 		monochrome = false,
 		dryRun = false )
