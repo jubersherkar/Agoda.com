@@ -13,7 +13,7 @@ public class HomePage
 		PageFactory.initElements(driver,this);
 	}
 	
-	public void launchBrowser()
+	public void enterBaseUrl()
 	{
 		driver.get("https://www.agoda.com/en-in/");
 	}

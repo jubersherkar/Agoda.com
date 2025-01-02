@@ -8,7 +8,7 @@
  -->
   <test name="Test">
     <classes>
-      <class name="agoda.testRunner.TestRunner"/>
+      <class name="agoda.runner.TestRunner"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

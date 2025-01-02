@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="agoda.testRunner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Title of your scenario&quot;, &quot;Test&quot;)">runScenario("Title of your scenario", "Test")</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="agoda.runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Title of your scenario&quot;, &quot;Test&quot;)">runScenario("Title of your scenario", "Test")</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -120,7 +120,7 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">agoda.testRunner.TestRunner</span>
+              <span class="class-name">agoda.runner.TestRunner</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
@@ -147,7 +147,7 @@
 &lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot; verbose=&quot;0&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;agoda.testRunner.TestRunner&quot;/&gt;
+      &lt;class name=&quot;agoda.runner.TestRunner&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -198,13 +198,13 @@ data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'runScenario')
-data.setCell(0, 2, 'agoda.testRunner.TestRunner')
-data.setCell(0, 3, 8177);
+data.setCell(0, 2, 'agoda.runner.TestRunner')
+data.setCell(0, 3, 19269);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 8 seconds</span>
+              <span class="suite-total-time">Total running time: 19 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -230,18 +230,18 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">agoda.testRunner.TestRunner</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">agoda.runner.TestRunner</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setUpClass(org.testng.TestRunner@4bafe935)</span>
+                <span class="method-name">setUpClass(org.testng.TestRunner@27df5806)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">runScenario("Title of your scenario", "Test")</span>
-                <span class="method-start">1083 ms</span>
+                <span class="method-start">1823 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDownClass</span>
-                <span class="method-start">9261 ms</span>
+                <span class="method-start">21093 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

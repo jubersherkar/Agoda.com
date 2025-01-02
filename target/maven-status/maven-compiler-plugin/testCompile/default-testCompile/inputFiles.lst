@@ -1,3 +1,12 @@
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\TestContext.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\ExtentManager.java
 C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\pageObjects\HomePage.java
-C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\testRunner\TestRunner.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\runner\TestRunner.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\FileReaderManager.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\Extent.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\PageObjectManager.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\hooks\Hooks.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\Hooks.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\DriverManager.java
 C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\stepDefinitions\HomePageSteps.java
+C:\Users\MYPC\eclipse-workspace\Agoda.com\src\test\java\agoda\utilities\ConfigReader.java
