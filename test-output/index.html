@@ -102,7 +102,7 @@
                     <div class="method-list-content failed suite-Suite">
                       <span>
                         <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="agoda.runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Title of your scenario&quot;, &quot;Test&quot;)">runScenario("Title of your scenario", "Test")</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="agoda.runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Verify Headers&quot;, &quot;Verify Home page contents&quot;)">runScenario("Verify Headers", "Verify Home page contents")</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Suite -->
@@ -125,53 +125,14 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="runScenario(&quot;Title of your scenario&quot;, &quot;Test&quot;)">
-                  </a> <!-- runScenario("Title of your scenario", "Test") -->
+                  <a name="runScenario(&quot;Verify Headers&quot;, &quot;Verify Home page contents&quot;)">
+                  </a> <!-- runScenario("Verify Headers", "Verify Home page contents") -->
                   <span class="method-name">runScenario</span>
-                  <span class="parameters">("Title of your scenario", "Test")</span>
-                  <div class="stack-trace">java.lang.NullPointerException: Cannot invoke &quot;agoda.utilities.FileReaderManager.getConfigReader()&quot; because the return value of &quot;agoda.utilities.FileReaderManager.getInstance()&quot; is null
-	at agoda.utilities.DriverManager.&lt;init&gt;(DriverManager.java:16)
-	at agoda.utilities.TestContext.&lt;init&gt;(TestContext.java:10)
-	at org.picocontainer.injectors.AbstractInjector.newInstance(AbstractInjector.java:145)
-	at org.picocontainer.injectors.ConstructorInjector$1.run(ConstructorInjector.java:342)
-	at org.picocontainer.injectors.AbstractInjector$ThreadLocalCyclicDependencyGuard.observe(AbstractInjector.java:270)
-	at org.picocontainer.injectors.ConstructorInjector.getComponentInstance(ConstructorInjector.java:364)
-	at org.picocontainer.injectors.AbstractInjectionFactory$LifecycleAdapter.getComponentInstance(AbstractInjectionFactory.java:56)
-	at org.picocontainer.behaviors.AbstractBehavior.getComponentInstance(AbstractBehavior.java:64)
-	at org.picocontainer.behaviors.Stored.getComponentInstance(Stored.java:91)
-	at org.picocontainer.DefaultPicoContainer.getInstance(DefaultPicoContainer.java:699)
-	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:647)
-	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:632)
-	at org.picocontainer.parameters.BasicComponentParameter$1.resolveInstance(BasicComponentParameter.java:118)
-	at org.picocontainer.parameters.ComponentParameter$1.resolveInstance(ComponentParameter.java:136)
-	at org.picocontainer.injectors.SingleMemberInjector.getParameter(SingleMemberInjector.java:78)
-	at org.picocontainer.injectors.ConstructorInjector$CtorAndAdapters.getParameterArguments(ConstructorInjector.java:309)
-	at org.picocontainer.injectors.ConstructorInjector$1.run(ConstructorInjector.java:335)
-	at org.picocontainer.injectors.AbstractInjector$ThreadLocalCyclicDependencyGuard.observe(AbstractInjector.java:270)
-	at org.picocontainer.injectors.ConstructorInjector.getComponentInstance(ConstructorInjector.java:364)
-	at org.picocontainer.injectors.AbstractInjectionFactory$LifecycleAdapter.getComponentInstance(AbstractInjectionFactory.java:56)
-	at org.picocontainer.behaviors.AbstractBehavior.getComponentInstance(AbstractBehavior.java:64)
-	at org.picocontainer.behaviors.Stored.getComponentInstance(Stored.java:91)
-	at org.picocontainer.DefaultPicoContainer.getInstance(DefaultPicoContainer.java:699)
-	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:647)
-	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:678)
-	at io.cucumber.picocontainer.PicoFactory.getInstance(PicoFactory.java:64)
-	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
-	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64)
-	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
-	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
-	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
-	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
-	at io.cucumber.core.runner.TestStep.run(TestStep.java:56)
-	at io.cucumber.core.runner.TestCase.run(TestCase.java:78)
-	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
-	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
-	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
-	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
-	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
-	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
-	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
-... Removed 30 stack frames
+                  <span class="parameters">("Verify Headers", "Verify Home page contents")</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [false] but found [true]
+	at agoda.stepDefinitions.HomePageSteps.validate_currency_menu(HomePageSteps.java:100)
+	at ✽.Validate currency menu(file:///C:/Users/MYPC/eclipse-workspace/Agoda.com/src/test/resources/Features/HomePage.feature:15)
+... Removed 4 stack frames
 </div> <!-- stack-trace -->
                   <em>
 (Runs Cucumber Scenarios)                  </em>
@@ -243,12 +204,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'runScenario')
 data.setCell(0, 2, 'agoda.runner.TestRunner')
-data.setCell(0, 3, 659);
+data.setCell(0, 3, 23347);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 659 ms</span>
+              <span class="suite-total-time">Total running time: 23 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -276,18 +237,18 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">agoda.runner.TestRunner</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setUpClass(org.testng.TestRunner@7f1ef916)</span>
+                <span class="method-name">setUpClass(org.testng.TestRunner@44864536)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">runScenario("Title of your scenario", "Test")</span>
-                <span class="method-start">1717 ms</span>
+                <span class="method-name">runScenario("Verify Headers", "Verify Home page contents")</span>
+                <span class="method-start">1315 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDownClass</span>
-                <span class="method-start">2387 ms</span>
+                <span class="method-start">24664 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -1,19 +1,16 @@
-@tag
-Feature: Test
-  I want to use this template for my feature file
+@homePage
+Feature: Verify Home page contents
+					This will verify all the home page elements are working fine. 
 
-  @tag1
-  Scenario: Title of your scenario
-    Given user opens browser
-    And wait for 2 seconds
-    Then check browser
-  #@tag2
-  #Scenario Outline: Title of your scenario outline
-    #Given I want to write a step with <name>
-    #When I check for the <value> in step
-    #Then I verify the <status> in step
-#
-    #Examples: 
-      #| name  | value | status  |
-      #| name1 |     5 | success |
-      #| name2 |     7 | Fail    |
+  @headers
+  Scenario: Verify Headers
+    Given User is on Home page
+    And Validates App logo
+    And Validate Flight + Hotel menu
+    And Validate Hotels + Homes menu
+    And Validate Transport menu
+    And Validate Activities menu
+    And Validate Coupons and Deals menu
+    And Validate language menu
+    Then Validate currency menu
+

@@ -1,7 +1,6 @@
 package agoda.hooks;
 
-import java.util.concurrent.TimeUnit;
-
+import java.time.Duration;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
@@ -29,8 +28,8 @@ public class Hooks
 		driver  = testContext.getWebDriverManager().getDriver();
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
-		driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
-		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		log.info("Browser launched");
 	}
 	@After(order = 1)
