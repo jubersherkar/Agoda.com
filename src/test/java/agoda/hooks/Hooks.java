@@ -15,7 +15,7 @@ public class Hooks
 {
 	private TestContext testContext;
 	private WebDriver driver;
-	private Logger log = LogManager.getLogger();
+	private Logger log = LogManager.getLogger(Hooks.class);
 	
 	public Hooks(TestContext testContext)
 	{
@@ -29,7 +29,8 @@ public class Hooks
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		driver.manage().timeouts().scriptTimeout(Duration.ofSeconds(20));
+//		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		log.info("Browser launched");
 	}
 	@After(order = 1)

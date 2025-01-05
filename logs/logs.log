@@ -393,3 +393,1525 @@
 [INFO ] 2025-01-02 22:23:34.173 [main] HomePageSteps - Clicked on currency menu
 [INFO ] 2025-01-02 22:23:34.220 [main] HomePageSteps - Currency options displayed
 [INFO ] 2025-01-02 22:23:34.495 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:32:40.016 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:32:40.703 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:32:43.080 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:32:43.097 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:32:45.310 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:32:45.320 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:32:46.276 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:32:46.308 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:32:49.074 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:32:49.081 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:32:49.552 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:32:50.274 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:32:50.629 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:32:50.721 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:32:51.097 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:32:51.356 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:32:51.402 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:32:51.666 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:41:13.667 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:41:14.143 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:41:16.570 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:41:16.585 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:41:19.822 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:41:19.841 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:41:20.921 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:41:21.051 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:41:24.395 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:41:24.415 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:41:25.090 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:41:25.398 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:41:25.695 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:41:25.915 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:41:26.214 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:41:26.462 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:41:26.555 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:41:26.827 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:42:30.870 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:42:31.723 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:42:34.427 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:42:34.450 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:42:36.676 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:42:36.686 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:42:37.596 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:42:37.653 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:42:40.230 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:42:40.239 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:42:40.754 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:42:40.912 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:42:41.192 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:42:41.252 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:42:41.555 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:42:41.819 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:42:41.902 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:42:42.152 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:43:14.418 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:43:14.738 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:43:17.035 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:43:17.046 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:43:19.503 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:43:19.520 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:43:20.429 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:43:20.461 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:43:23.614 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:43:23.624 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:43:24.162 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:43:25.018 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:43:25.345 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:43:25.404 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:43:25.695 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:43:25.970 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:43:26.034 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:43:26.326 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:43:58.177 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:43:58.810 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:44:01.261 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:44:01.273 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:44:03.864 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:44:03.885 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:44:04.833 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:44:04.906 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:44:07.620 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:44:07.626 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:44:08.236 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:44:08.467 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:44:08.786 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:44:08.874 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:44:09.235 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:44:09.496 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:44:09.540 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:44:09.808 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:44:46.998 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:44:47.706 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:44:50.326 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:44:50.350 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:44:52.683 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:44:52.706 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:44:53.592 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:44:53.628 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:44:56.154 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:44:56.168 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:44:56.562 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:44:57.301 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:44:57.610 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:44:57.686 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:44:57.958 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:44:58.228 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:44:58.280 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:44:58.535 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:45:53.083 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:45:53.242 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:45:58.064 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:45:58.249 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:46:00.193 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:46:42.935 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:46:42.997 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:46:44.749 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:46:44.915 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:46:47.224 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:47:24.589 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:47:24.970 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:47:26.922 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:47:27.185 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:47:29.133 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:48:45.406 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:48:45.952 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:48:48.224 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:48:48.241 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:48:50.242 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:48:50.255 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:48:51.378 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:48:51.422 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:48:54.085 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:48:54.100 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:48:54.658 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:48:54.925 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:48:55.272 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:48:55.328 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:48:55.680 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:48:55.934 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:48:56.035 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:48:56.316 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:54:19.703 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:54:19.770 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:54:21.781 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:54:21.802 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:54:24.044 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:54:24.052 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:54:24.978 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:54:25.030 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:54:27.463 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:54:27.478 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:54:28.196 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:54:28.600 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:54:28.949 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:54:29.009 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:54:29.282 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:54:29.542 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:54:29.609 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:54:29.902 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 22:55:59.651 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 22:56:00.254 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 22:56:02.087 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 22:56:02.098 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 22:56:04.318 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 22:56:04.333 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 22:56:05.382 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 22:56:05.446 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 22:56:07.970 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 22:56:07.982 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 22:56:08.515 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 22:56:08.792 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 22:56:09.099 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 22:56:09.166 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 22:56:09.481 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 22:56:09.763 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 22:56:09.816 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 22:56:10.132 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 23:00:01.446 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:00:01.895 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:00:04.743 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:00:04.753 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:00:06.862 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:00:06.881 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:00:08.091 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:00:08.163 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:00:11.592 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:00:11.613 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:00:12.164 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:00:12.444 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:00:12.726 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 23:00:12.779 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 23:00:13.072 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 23:00:13.336 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 23:00:13.397 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 23:00:13.666 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 23:01:09.982 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:01:10.077 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:01:11.984 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:01:12.059 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:01:13.989 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:01:14.004 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:01:14.204 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:01:14.243 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:01:18.326 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:01:18.363 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:01:18.758 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:01:21.008 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:07:45.477 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:07:56.283 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:08:00.144 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:08:00.185 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:08:02.964 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:08:02.981 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:08:03.596 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:08:03.713 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:08:12.086 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:08:12.137 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:08:28.752 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:08:36.445 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:09:52.498 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:09:52.674 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:09:56.115 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:09:56.158 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:09:59.326 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:09:59.349 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:09:59.687 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:09:59.917 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:10:05.759 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:10:05.930 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:10:08.398 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:10:21.531 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:23:22.055 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:23:22.325 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:23:26.039 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:23:26.309 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:23:31.850 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:23:32.115 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:23:32.444 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:23:32.504 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:23:36.397 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:23:36.529 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:23:37.525 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:23:46.310 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:24:55.140 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:24:57.098 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:25:01.741 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:25:01.764 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:25:06.939 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:25:06.949 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:25:09.159 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:25:10.542 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:25:17.017 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:25:17.033 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:25:18.128 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:25:20.001 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:25:20.382 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 23:25:20.866 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-02 23:25:21.242 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-02 23:25:21.549 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-02 23:25:22.161 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-02 23:25:22.456 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-02 23:47:13.675 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:47:13.984 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:47:18.714 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:47:18.794 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:47:22.171 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:47:22.213 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:47:22.716 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:47:26.980 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:47:31.731 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:47:31.786 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:47:32.406 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:47:43.712 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:49:08.933 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:49:09.114 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:49:13.153 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:49:13.235 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:49:16.852 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:49:16.910 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:49:21.459 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:49:21.542 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:49:23.483 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-02 23:49:23.599 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-02 23:50:59.148 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:50:59.356 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:51:02.486 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:51:02.537 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:51:05.888 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:51:05.950 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:51:06.327 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:51:06.385 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:51:06.787 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:51:09.963 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:51:12.965 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-02 23:57:00.468 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-02 23:57:11.843 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-02 23:57:15.988 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-02 23:57:16.008 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-02 23:57:19.452 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-02 23:57:19.516 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-02 23:57:23.752 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-02 23:57:23.829 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-02 23:57:24.165 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-02 23:57:31.842 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-02 23:57:32.215 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:01:12.197 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:01:12.383 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:01:16.005 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:01:16.231 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:01:19.631 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:01:19.702 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:01:19.962 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:01:23.331 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:01:24.136 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:01:32.139 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:01:32.494 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:01:33.045 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:01:33.525 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 00:01:33.760 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 00:03:08.241 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:03:08.492 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:03:12.375 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:03:12.441 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:03:15.916 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:03:15.949 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:03:19.846 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:03:19.935 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:03:20.352 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:03:27.939 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:03:28.373 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:03:28.460 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:08:01.643 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:08:01.775 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:08:04.855 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:08:04.942 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:08:08.061 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:08:08.088 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:08:08.415 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:08:08.514 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:08:08.982 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:08:12.048 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:08:14.562 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:08:15.177 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:08:15.512 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 00:13:47.663 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:13:47.881 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:13:50.887 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:13:50.913 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:13:53.946 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:13:54.086 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:13:54.426 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:13:54.493 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:13:56.783 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:13:56.982 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:13:59.364 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:13:59.887 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:14:00.247 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 00:14:00.905 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 00:22:56.317 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:22:56.498 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:23:01.595 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:23:01.867 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:23:03.257 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:23:03.522 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:23:03.726 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:23:03.775 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:23:04.028 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:23:06.249 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:23:08.809 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:23:09.156 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:23:09.411 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 00:26:22.312 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:26:22.372 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:26:24.335 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:26:24.407 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:26:25.935 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:26:26.179 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:26:26.421 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:26:26.474 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:26:26.706 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:26:28.919 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:26:31.236 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:26:31.373 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:29:41.165 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:29:41.228 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:29:43.054 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:29:43.109 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:29:44.734 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:29:44.749 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:29:45.187 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:29:45.252 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:29:45.606 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:29:48.107 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:29:50.489 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:29:50.945 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:29:51.344 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 00:33:31.685 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:33:31.742 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:33:33.624 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:33:33.686 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:33:35.085 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:33:35.095 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:33:35.607 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:33:35.656 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:33:35.941 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:33:38.473 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:33:40.533 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:33:40.822 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:39:19.353 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:39:19.455 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:39:23.491 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:39:23.758 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:39:25.200 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:39:25.464 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:39:25.684 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:39:25.733 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:39:26.013 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:39:28.144 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:39:30.785 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:39:31.135 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:50:53.617 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:50:53.697 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:50:55.550 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:50:55.569 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:50:57.464 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:50:57.481 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:50:57.748 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:50:57.787 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:50:57.998 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:51:00.273 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:51:03.324 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:51:04.709 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:53:25.166 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:53:25.248 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:53:27.191 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:53:27.227 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:53:28.826 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:53:29.016 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:53:29.214 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:53:29.269 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:53:29.498 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:53:32.272 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:53:34.657 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 00:53:34.898 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 00:57:20.491 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:57:20.548 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:57:22.541 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:57:22.595 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:57:24.073 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:57:24.087 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:57:24.531 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:57:24.570 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:57:24.788 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:57:27.075 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:57:29.654 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 00:57:30.056 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 00:59:09.140 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 00:59:09.214 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 00:59:10.993 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 00:59:11.205 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 00:59:12.666 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 00:59:12.864 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 00:59:13.100 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 00:59:13.158 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 00:59:13.418 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 00:59:15.632 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 00:59:19.730 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 00:59:19.806 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 04:53:43.866 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 04:53:44.047 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 04:53:47.622 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 04:53:47.961 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 04:53:51.240 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 04:53:51.273 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 04:53:51.576 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 04:53:51.668 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 04:53:56.172 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 04:54:05.942 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 04:54:09.036 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 04:54:09.086 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 05:32:37.186 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 05:32:37.535 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 05:32:40.752 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 05:32:41.307 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 05:32:44.487 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 05:32:44.640 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 05:32:44.917 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 05:32:45.007 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 05:32:45.840 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 05:32:48.873 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 05:32:54.311 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 05:32:54.399 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 05:34:21.344 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 05:34:21.457 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 05:34:25.204 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 05:34:25.234 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 05:34:28.269 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 05:34:28.354 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 05:34:28.774 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 05:34:28.852 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 05:34:32.214 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 05:34:42.822 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 05:34:46.547 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 05:34:46.569 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 06:03:06.772 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 06:03:08.174 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 06:03:09.937 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 06:03:09.955 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 06:03:12.103 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 06:03:12.130 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 06:03:12.341 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 06:03:12.392 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 06:03:12.632 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 06:03:14.840 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 06:03:20.718 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 06:03:20.747 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 06:13:27.029 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 06:13:27.124 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 06:13:28.942 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 06:13:28.961 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 06:13:30.800 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 06:13:30.816 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 06:13:31.091 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 06:13:31.142 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 06:13:31.411 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 06:13:33.995 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 06:13:38.181 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 06:13:38.282 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 17:47:59.620 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 17:47:59.750 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 17:48:06.031 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 17:48:06.067 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 17:48:28.170 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 17:48:28.304 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 17:48:28.765 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 17:48:29.993 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 17:48:36.260 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 17:48:39.909 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 17:48:43.363 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 17:48:43.535 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 18:24:43.923 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:24:44.094 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 18:24:47.294 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 18:24:47.475 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 18:24:50.892 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 18:24:50.910 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 18:24:51.233 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 18:24:51.374 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 18:24:53.653 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 18:25:02.580 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 18:25:06.465 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 18:25:06.512 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 18:26:29.375 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:26:29.536 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 18:26:32.486 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 18:26:32.542 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 18:26:36.338 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 18:26:36.405 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 18:26:36.885 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 18:26:36.990 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 18:26:40.888 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:26:41.560 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:29:20.770 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:29:32.706 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 18:29:36.359 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 18:29:36.493 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 18:29:39.700 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 18:29:39.736 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 18:29:40.020 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 18:29:40.194 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 18:29:40.600 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:29:44.789 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:31:03.119 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:31:06.599 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 18:31:10.482 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 18:31:10.649 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 18:31:13.687 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 18:31:13.707 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 18:31:14.023 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 18:31:14.091 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 18:31:14.422 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:31:14.909 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:36:06.039 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:36:17.137 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:36:17.699 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:39:35.971 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:39:38.934 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:39:39.758 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:45:29.806 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:45:30.295 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:45:30.884 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:45:30.945 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 18:51:57.381 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:51:57.464 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 18:51:59.234 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 18:51:59.436 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 18:52:00.835 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 18:52:01.068 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 18:52:01.271 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 18:52:01.322 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 18:52:01.553 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 18:52:03.855 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 18:52:06.340 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:52:06.796 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:52:06.854 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 18:53:25.570 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:53:26.308 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:53:26.443 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:53:26.511 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 18:54:37.995 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:54:38.753 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:54:39.208 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:54:39.256 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 18:58:06.699 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 18:58:06.943 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 18:58:07.275 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 18:58:07.428 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:04:27.584 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:04:28.658 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:04:28.796 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:04:28.864 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:08:41.763 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:08:42.049 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:08:42.384 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:09:36.873 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:09:37.670 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:09:38.124 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:12:45.127 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:12:45.852 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:12:46.270 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:12:46.282 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:21:11.494 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:21:11.753 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:21:12.090 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:21:12.103 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:22:31.759 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:22:31.996 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:22:32.275 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:22:32.286 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:24:46.891 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:24:47.152 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:24:47.425 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:24:47.435 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:26:17.917 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:26:18.161 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:26:18.444 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:28:21.776 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:28:22.028 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:28:22.383 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:28:22.595 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:31:26.654 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:31:27.302 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:31:27.837 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:31:27.891 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:32:53.055 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:32:53.323 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:32:53.940 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:32:55.993 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:33:41.506 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:33:41.768 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:33:42.064 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:33:44.196 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:39:07.490 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:39:07.855 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:39:08.129 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:39:13.528 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:40:02.049 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:40:02.327 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:40:02.614 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:40:11.819 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:40:35.896 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:40:36.371 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:40:36.729 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:40:45.551 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:41:22.082 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:41:22.401 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:41:22.544 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:41:27.763 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:42:08.027 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:42:08.347 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:42:08.490 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:42:31.615 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:43:01.105 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:43:01.447 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:43:01.945 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:43:25.801 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:43:43.270 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:43:43.712 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:43:44.007 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:44:04.089 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:44:31.006 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:44:31.395 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:44:31.782 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:44:51.899 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:47:51.640 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:47:52.276 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:47:52.723 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:47:52.823 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:48:25.510 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:48:25.774 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:48:26.152 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:48:26.287 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:50:41.549 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:50:41.796 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:50:42.597 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:50:42.778 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:51:38.878 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:51:39.144 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:51:39.657 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:51:39.814 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:51:40.275 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 19:51:40.620 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 19:51:40.658 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-03 19:52:57.947 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:52:58.480 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 19:53:00.807 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 19:53:00.832 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 19:53:02.536 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 19:53:02.636 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 19:53:02.853 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 19:53:02.899 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 19:53:03.146 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 19:53:05.483 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 19:53:07.562 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:53:07.843 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:53:07.933 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:54:13.210 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:54:13.297 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 19:54:15.110 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 19:54:15.303 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 19:54:16.745 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 19:54:16.777 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 19:54:17.113 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 19:54:17.165 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 19:54:17.426 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 19:54:19.820 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 19:54:22.337 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:54:22.932 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:54:23.026 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 19:57:40.561 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 19:57:40.686 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 19:57:44.414 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 19:57:44.603 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 19:57:46.209 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 19:57:46.337 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 19:57:46.530 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 19:57:46.583 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 19:57:46.833 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 19:57:49.052 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 19:57:51.787 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 19:57:52.042 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 19:57:52.102 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:01:47.148 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:01:47.434 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:01:49.657 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:01:49.676 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:01:51.158 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:01:51.225 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:01:51.478 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:01:51.555 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:01:51.780 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:01:53.902 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:01:56.653 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:01:56.979 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:01:57.024 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:05:34.726 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:05:34.821 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:05:36.746 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:05:36.880 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:05:38.441 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:05:38.463 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:05:38.737 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:05:38.786 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:05:39.006 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:05:41.151 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:05:44.523 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:05:44.972 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:09:06.437 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:09:06.585 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:09:09.759 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:09:09.774 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:09:14.668 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:09:14.939 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:09:15.271 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:09:15.406 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:09:15.738 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:09:18.625 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:09:20.661 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:09:21.136 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:09:21.152 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:10:05.200 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:10:05.310 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:10:09.257 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:10:09.305 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:10:12.659 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:10:12.708 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:10:13.360 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:10:13.502 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:10:17.066 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:10:20.828 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:10:21.233 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:10:21.747 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:10:21.829 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:11:24.423 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:11:24.548 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:11:28.082 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:11:28.110 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:11:31.631 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:11:31.667 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:11:35.266 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:11:35.561 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:11:35.985 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:11:43.847 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:11:44.303 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:11:44.690 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:11:44.864 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:12:53.584 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:12:54.142 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:12:54.323 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:12:54.809 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:12:55.402 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:13:02.984 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:14:08.504 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:14:09.249 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:14:09.578 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:14:10.114 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:14:10.821 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:14:13.595 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:14:34.426 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:24:01.153 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:24:01.731 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:24:01.968 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:24:02.499 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:24:03.133 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:24:03.578 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:24:26.911 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:25:48.670 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:25:49.130 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:25:49.271 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:25:49.765 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:25:50.331 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:25:53.403 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:26:14.342 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:31:27.454 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:31:28.024 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:31:28.246 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:31:28.833 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:31:29.501 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:31:32.142 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:31:32.816 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:31:33.377 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 20:31:33.623 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-03 20:32:04.038 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:32:04.632 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:32:04.791 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:32:05.389 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:32:06.164 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:32:09.323 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:32:09.991 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:33:01.722 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:33:02.119 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:33:02.545 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:33:02.957 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:33:03.531 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:33:06.372 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:33:06.906 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:35:57.544 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:35:58.240 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:35:58.889 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:35:59.360 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:36:00.046 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:36:03.493 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:36:03.973 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:36:04.642 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 20:36:04.846 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-03 20:36:53.789 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:36:53.968 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:36:56.892 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:36:56.924 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:37:00.452 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:37:00.540 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:37:00.831 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:37:03.881 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:37:04.375 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:37:07.589 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:37:08.092 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:37:08.330 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:37:09.074 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:37:09.650 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:40:00.263 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:40:00.384 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:40:04.264 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:40:04.297 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:40:07.377 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:40:07.591 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:40:07.924 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:40:08.147 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:40:08.523 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:40:17.602 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:40:18.300 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:40:18.928 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:40:19.081 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:40:19.747 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:40:20.561 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 20:40:20.712 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-03 20:40:25.433 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-03 20:40:25.620 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-03 20:40:54.436 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:40:54.596 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 20:40:58.179 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 20:40:58.413 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 20:41:01.596 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 20:41:01.616 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 20:41:01.899 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 20:41:01.978 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 20:41:05.406 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 20:41:08.109 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 20:41:08.553 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 20:41:09.005 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 20:41:09.188 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 20:41:09.557 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:44:27.246 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:44:27.954 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:45:45.043 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:45:45.690 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:48:44.741 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:48:46.081 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:56:05.197 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:56:05.754 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:59:05.103 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:59:16.890 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:59:18.043 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 20:59:18.531 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-03 20:59:49.673 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 20:59:50.664 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 20:59:51.619 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 20:59:51.954 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-03 21:00:19.179 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:00:19.763 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 21:07:51.759 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:07:52.347 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 21:26:37.655 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:26:38.657 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:26:39.391 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:27:59.676 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:28:00.520 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:28:01.314 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:30:25.212 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:30:25.813 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:30:26.446 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:41:44.593 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:41:45.397 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:41:46.022 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:42:56.649 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:42:57.300 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:42:57.906 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:43:40.811 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:43:49.436 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:43:50.196 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:44:20.719 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:44:21.016 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:44:21.926 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:45:02.096 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:45:03.221 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:45:04.160 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:45:04.241 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 21:45:30.460 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:45:32.271 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:45:33.662 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:46:46.842 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:46:49.189 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:46:49.996 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:48:20.573 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:48:22.725 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:48:22.924 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:48:23.349 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 21:48:57.558 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:48:58.125 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 21:49:00.519 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 21:49:00.537 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 21:49:02.602 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 21:49:02.620 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 21:49:03.633 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 21:49:03.670 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 21:49:03.987 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 21:49:04.502 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 21:49:05.576 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 21:49:06.110 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 21:49:06.258 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-03 21:49:06.939 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-03 21:49:07.840 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-03 21:49:08.056 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-03 21:58:30.426 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 21:58:30.828 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 21:58:33.403 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 21:58:33.413 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 21:58:35.644 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 21:58:35.704 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 21:58:36.513 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 21:58:36.665 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 21:58:36.968 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 21:58:37.258 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 22:09:08.879 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 22:09:09.561 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 22:09:11.939 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 22:09:11.956 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 22:09:14.158 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 22:09:14.177 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 22:09:15.260 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 22:09:15.289 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 22:09:15.590 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 22:09:15.982 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 22:10:47.981 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 22:10:48.796 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 22:10:51.385 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 22:10:51.398 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 22:10:53.617 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 22:10:53.633 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 22:10:54.540 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 22:10:54.584 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 22:10:54.907 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 22:10:55.230 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 22:11:31.609 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 22:11:32.152 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 22:11:34.846 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 22:11:34.859 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 22:11:36.873 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 22:11:36.890 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 22:11:38.037 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 22:11:38.066 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 22:11:38.384 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 22:11:38.684 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 22:12:27.892 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 22:12:28.607 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 22:12:31.315 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 22:12:31.325 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 22:12:33.335 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 22:12:33.354 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 22:12:34.482 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 22:12:34.582 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 22:12:34.897 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 22:12:35.370 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 22:14:10.818 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 22:14:11.263 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-03 22:14:14.214 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-03 22:14:14.226 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-03 22:14:16.515 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-03 22:14:16.537 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-03 22:14:17.431 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-03 22:14:17.493 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-03 22:14:17.817 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-03 22:14:18.087 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-03 22:14:18.485 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 22:14:19.932 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 22:15:38.584 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 22:15:40.572 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 22:15:41.232 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 22:17:09.542 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-03 22:17:10.571 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-03 22:17:11.948 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-03 22:17:12.056 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 14:56:04.868 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 14:56:06.182 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 14:56:07.738 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 14:56:07.923 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 14:56:11.053 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 14:56:11.060 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 14:57:22.679 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 14:57:23.810 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 14:57:24.928 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 14:57:25.044 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 14:57:25.592 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:00:00.826 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:00:01.714 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:00:03.074 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:00:03.188 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:00:03.859 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:00:04.715 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:00:04.897 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:01:11.994 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:01:14.365 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:01:15.009 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:01:15.134 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:01:15.736 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:15:39.926 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:15:42.061 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:15:43.460 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:15:43.707 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:15:44.615 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:15:44.896 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:15:45.322 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:18:04.149 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:18:06.746 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:18:07.467 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:18:07.876 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:18:09.145 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:18:49.449 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:21:09.065 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:21:11.356 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:21:11.755 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:21:11.948 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:21:12.693 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:21:13.665 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:21:13.889 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:23:58.846 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:24:01.128 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:24:01.734 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:24:01.964 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:24:03.019 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:24:03.467 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:24:03.567 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:26:47.138 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:26:49.387 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:26:49.976 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:26:50.219 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:26:51.724 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:26:52.101 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:26:52.446 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:28:11.344 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:28:13.381 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:28:14.533 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:28:14.715 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:28:15.795 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:28:15.998 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:28:16.177 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:28:39.494 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:28:39.514 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:32:27.623 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:32:29.789 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:32:30.708 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:32:30.890 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:32:31.476 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:33:12.235 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:33:52.393 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:34:14.953 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:34:14.983 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:34:49.165 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:34:51.722 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:34:52.695 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:34:52.942 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:34:53.707 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:34:59.017 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:35:04.356 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:35:07.654 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:35:07.667 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:35:35.495 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:35:37.981 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:35:38.657 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:35:38.973 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:35:39.835 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:35:40.276 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:35:40.523 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:35:44.031 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:35:44.053 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:36:17.764 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:36:20.360 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:36:20.874 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:36:21.239 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:36:22.177 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:36:27.716 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:36:33.076 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:36:35.605 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:36:35.611 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:37:02.904 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:37:04.016 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:37:04.879 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:37:05.295 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:37:06.842 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:37:12.408 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:37:17.839 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:37:21.135 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:37:21.154 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:37:53.826 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:37:54.392 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:37:57.139 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:37:57.156 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:37:59.738 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:37:59.750 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:38:00.796 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:38:00.884 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:38:01.212 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:38:02.520 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:38:03.282 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:38:03.865 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:38:04.354 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:38:05.352 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:39:25.448 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:39:26.014 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:39:28.753 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:39:28.767 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:39:31.366 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:39:31.378 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:39:32.155 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:39:32.297 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:39:32.648 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:39:33.954 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:39:34.709 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:39:35.352 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:39:35.713 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:39:36.460 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:39:36.959 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:39:37.091 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:39:40.193 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:39:40.207 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:40:05.985 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:40:07.105 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:40:12.294 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:40:12.304 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:40:14.594 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:40:14.607 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:40:15.871 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:40:15.899 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:40:16.206 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:40:17.101 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:40:17.477 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:40:18.442 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:40:18.541 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:40:20.007 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:40:20.351 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:40:20.554 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:40:23.826 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:40:23.833 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:41:16.185 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:41:16.312 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:41:18.233 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:41:18.453 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:41:20.000 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:41:20.099 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:41:20.313 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:41:20.366 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:41:20.634 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:41:22.972 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:41:25.985 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:41:26.403 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:41:26.575 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:41:27.093 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:41:27.750 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:41:27.974 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:41:32.781 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:41:32.802 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:42:30.801 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:42:30.873 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:42:32.874 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:42:33.167 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:42:34.824 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:42:35.093 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:42:35.311 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:42:35.363 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:42:35.600 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:42:37.982 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:42:40.374 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:42:40.663 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:42:40.703 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:45:14.359 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:45:14.997 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:45:18.197 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:45:18.212 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:45:20.460 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:45:20.480 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:45:21.571 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:45:21.645 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:45:21.949 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:45:22.406 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:45:23.414 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:45:24.292 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:45:24.509 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:45:25.601 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:46:53.701 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:46:53.771 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:46:55.629 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:46:55.799 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:46:57.923 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:46:57.938 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:46:58.162 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:46:58.214 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:46:58.434 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:47:00.794 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:47:03.059 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:47:03.412 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:47:03.507 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:47:03.960 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:47:09.113 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:47:15.603 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:48:03.335 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:48:04.212 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:48:06.970 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:48:06.982 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:48:09.442 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:48:09.449 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:48:10.326 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:48:10.447 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:48:10.764 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:48:11.000 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:48:11.394 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:48:12.595 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:48:12.715 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:48:13.305 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:48:14.232 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:48:14.343 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:48:18.332 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:48:18.340 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:48:53.737 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:48:54.423 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:48:57.011 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:48:57.024 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:48:59.455 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:48:59.471 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:49:00.630 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:49:00.668 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:49:00.954 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:49:01.332 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:49:02.446 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:49:03.015 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:49:03.232 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:49:03.961 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 15:49:09.419 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 15:49:14.804 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 15:49:17.551 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 15:49:17.561 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 15:49:56.350 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:49:56.417 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:49:58.288 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:49:58.430 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:49:59.948 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:50:00.199 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:50:00.393 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:50:00.442 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:50:00.665 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:50:03.041 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:50:05.726 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:50:06.068 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:50:06.163 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:52:09.800 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:52:09.930 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:52:12.034 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:52:12.048 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:52:14.205 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:52:14.232 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:52:14.451 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:52:14.504 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:52:14.754 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:52:17.421 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:52:19.185 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:52:19.300 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:52:19.507 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 15:58:40.544 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 15:58:40.694 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 15:58:43.918 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 15:58:43.942 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 15:58:45.916 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 15:58:45.935 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 15:58:46.278 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 15:58:46.324 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 15:58:46.589 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 15:58:49.116 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 15:58:51.070 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 15:58:51.381 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 15:58:51.565 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:04:40.104 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:04:40.294 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:04:42.688 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:04:42.707 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:04:45.333 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:04:45.346 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:04:46.455 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:04:46.588 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:04:46.945 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:04:47.970 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:04:49.244 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:04:49.793 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:04:50.085 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:04:50.527 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 16:04:51.147 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 16:04:51.225 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 16:04:54.574 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 16:04:54.586 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 16:05:57.214 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:05:57.316 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:05:59.873 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:05:59.948 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:06:01.892 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:06:01.911 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:06:02.445 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:06:02.492 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:06:02.800 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:06:05.290 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:06:08.273 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:06:08.736 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:06:08.924 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:07:02.839 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:07:02.913 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:07:05.029 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:07:05.184 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:07:06.986 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:07:07.050 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:07:07.272 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:07:07.320 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:07:07.551 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:07:10.140 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:07:12.447 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:07:12.542 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:07:12.876 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:11:54.379 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:11:54.459 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:11:56.521 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:11:56.596 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:11:58.051 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:11:58.329 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:11:58.553 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:11:58.601 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:11:58.858 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:12:01.378 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:12:04.045 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:12:04.403 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:12:04.604 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:16:35.226 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:16:35.289 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:16:37.170 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:16:37.324 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:16:38.632 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:16:38.656 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:16:39.112 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:16:39.160 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:16:39.420 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:16:41.752 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:16:44.511 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:16:44.766 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:16:44.935 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:19:44.939 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:19:45.009 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:19:46.933 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:19:47.160 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:19:48.580 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:19:48.777 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:19:49.000 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:19:49.050 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:19:49.286 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:19:51.511 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:19:54.483 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:19:54.864 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:22:12.045 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:22:12.417 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:22:15.887 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:22:15.954 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:22:19.267 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:22:19.411 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:22:19.748 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:22:19.822 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:22:22.119 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:22:22.613 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:22:25.357 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:22:25.796 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:22:26.028 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:22:26.329 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 16:22:31.903 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 16:22:37.685 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 16:22:44.130 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 16:22:44.242 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 16:23:36.281 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:23:36.480 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:23:40.526 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:23:40.547 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:23:47.047 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:23:47.076 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:23:47.516 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:23:47.632 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:23:48.033 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:23:58.885 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:23:59.321 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:24:00.170 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:24:00.372 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:24:00.860 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 16:24:06.447 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 16:24:11.829 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 16:24:15.875 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 16:24:15.911 [main] HomePageSteps - Verified Activities menu
+[INFO ] 2025-01-05 16:25:11.382 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:25:11.751 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:25:14.284 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:25:14.308 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:25:21.396 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:25:21.414 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:25:24.324 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:25:25.279 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:25:26.308 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:25:27.991 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:25:28.920 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:25:29.587 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:25:29.858 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:25:31.055 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 16:27:21.719 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:27:23.069 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:27:27.092 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:27:27.130 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:27:32.619 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:27:32.656 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:27:35.173 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:27:35.913 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:27:37.318 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:27:39.338 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:27:39.752 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:27:40.001 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:27:40.225 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:27:40.715 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 16:29:21.328 [main] HomePageSteps - Entered base Url
+[INFO ] 2025-01-05 16:29:21.498 [main] HomePageSteps - App logo displayed
+[INFO ] 2025-01-05 16:29:25.038 [main] HomePageSteps - Clicked on Flight + Hotel menu
+[INFO ] 2025-01-05 16:29:25.090 [main] HomePageSteps - Verified Flight + Hotel menu
+[INFO ] 2025-01-05 16:29:28.017 [main] HomePageSteps - Clicked on Hotels + Homes menu
+[INFO ] 2025-01-05 16:29:28.037 [main] HomePageSteps - Verified Hotels + Homes menu
+[INFO ] 2025-01-05 16:29:28.381 [main] HomePageSteps - Clicked on Transport menu
+[INFO ] 2025-01-05 16:29:28.605 [main] HomePageSteps - Transport options displayed
+[INFO ] 2025-01-05 16:29:29.003 [main] HomePageSteps - Clicked on Coupons and Deals menu
+[INFO ] 2025-01-05 16:29:31.908 [main] HomePageSteps - Verified Coupons and Deals menu
+[INFO ] 2025-01-05 16:29:34.777 [main] HomePageSteps - Clicked on language menu
+[INFO ] 2025-01-05 16:29:35.316 [main] HomePageSteps - Language options displayed
+[INFO ] 2025-01-05 16:29:35.555 [main] HomePageSteps - Closed suggested languages
+[INFO ] 2025-01-05 16:29:36.712 [main] HomePageSteps - Clicked on currency menu
+[INFO ] 2025-01-05 16:29:47.335 [main] HomePageSteps - Currency options displayed
+[INFO ] 2025-01-05 16:29:53.065 [main] HomePageSteps - closed currency options
+[INFO ] 2025-01-05 16:29:55.141 [main] HomePageSteps - Clicked on Activities menu
+[INFO ] 2025-01-05 16:29:55.270 [main] HomePageSteps - Verified Activities menu

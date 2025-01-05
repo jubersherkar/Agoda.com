@@ -13,39 +13,36 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class DriverManager {
 
     private WebDriver driver;
-    private String browser = FileReaderManager.getInstance().getConfigReader().getBrowserName();
-
+    final String browser = System.getProperty("browser", FileReaderManager.getInstance().getConfigReader().getBrowser());
+    
     public WebDriver getDriver() 
     {   
         return driver == null ? createDriver() : driver;   
     }
     
     private WebDriver createDriver() 
-    {
+    {      
         switch (browser) {
             case "chrome":
-                  
-                    ChromeOptions options = new ChromeOptions();
-                    options.setCapability(CapabilityType.UNHANDLED_PROMPT_BEHAVIOUR, UnexpectedAlertBehaviour.ACCEPT);
-                    options.addArguments("--headless=new");
-                    WebDriverManager.chromedriver().setup();
-                    driver = new ChromeDriver(options);
+                  	
+            	WebDriverManager.chromedriver().setup();
+                ChromeOptions options = new ChromeOptions();
+                options.setCapability(CapabilityType.UNHANDLED_PROMPT_BEHAVIOUR, UnexpectedAlertBehaviour.DISMISS);
+//              options.addArguments("--headless=new");
+                driver = new ChromeDriver(options);
                 break;
             
             case "firefox":
 
-                    FirefoxOptions options2 = new FirefoxOptions();
-                    options2.setCapability(CapabilityType.UNHANDLED_PROMPT_BEHAVIOUR, UnexpectedAlertBehaviour.ACCEPT);
-                    options2.addArguments("--headless");
-                    WebDriverManager.firefoxdriver().setup();
-                    driver = new FirefoxDriver();
+        		WebDriverManager.firefoxdriver().setup();
+                FirefoxOptions options2 = new FirefoxOptions();
+                options2.setCapability(CapabilityType.UNHANDLED_PROMPT_BEHAVIOUR, UnexpectedAlertBehaviour.ACCEPT);
+                driver = new FirefoxDriver(options2);
                 break;
-
-                
         
             default: 
-                    WebDriverManager.edgedriver().setup();
-                    driver = new EdgeDriver();
+                WebDriverManager.edgedriver().setup();
+                driver = new EdgeDriver();
                 break;
         }   
         return driver;        

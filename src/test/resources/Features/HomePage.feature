@@ -9,8 +9,7 @@ Feature: Verify Home page contents
     And Validate Flight + Hotel menu
     And Validate Hotels + Homes menu
     And Validate Transport menu
-    And Validate Activities menu
     And Validate Coupons and Deals menu
     And Validate language menu
-    Then Validate currency menu
-
+    And Validate currency menu
+    Then Validate Activities menu

@@ -35,16 +35,16 @@ public class ConfigReader
             }
     }
 
-    public String getEnvironment()
-    {
-        return prop.getProperty("environment");
-    }
-    public String getBrowserName()
-    {
-        return prop.getProperty("browser");
-    }
     public String getBaseUrl()
     {
         return prop.getProperty("baseUrl");
+    }
+    public String getEnvironment()
+    {
+    	return prop.getProperty("environment");
+    }
+    public String getBrowser()
+    {
+    	return prop.getProperty("browser");
     }
 }

@@ -1,6 +1,4 @@
 package agoda.stepDefinitions;
-import java.util.Set;
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -15,7 +13,7 @@ public class HomePageSteps
 	WebDriver driver;
 	HomePage homePage;
 	
-	private Logger log = LogManager.getLogger(this);
+	private Logger log = LogManager.getLogger(HomePageSteps.class);
 
 	public HomePageSteps(TestContext testContext)
 	{
